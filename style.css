@@ -1,0 +1,68 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+
+ul{
+	background-color: gray;
+	height: 36px;	
+}
+
+li{
+	padding: 0;
+	margin: 0;
+	float: left;
+	margin-top: 5px;
+	list-style: none;
+	margin-left: 15px;
+	font-size: 25px;	
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	
+}
+
+a:hover{
+	color: #58C3F7;
+	font-size: 27px;
+}
+
+h1{
+	background-color: #346E8A;
+	height: 50px;
+	text-align: center;
+	color: white;
+}
+
+h2{
+	background-color:  #1C5571;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	background-image: url("image/studywallpaper.jpg");
+	background-repeat: no-repeat;
+	background-size: 999px;
+	height: 500px;
+	background-position: 160px;
+}
+
+footer{
+	background-image: url("image/studywallpaper3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 600px;
+}
+
+.main{
+	color: white;
+	text-align: center;
+}
+
+p1{
+	font-size: 35px;
+	margin: 110px;
+}
+
